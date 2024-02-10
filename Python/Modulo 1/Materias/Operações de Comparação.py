@@ -1,0 +1,8 @@
+#Operações de Comparação: True(Verdadeiro)  False (Falso)
+# > (Maior que)
+# < (Menor que)
+# <= (Menor ou igual a)
+# >= (Maior ou igual a)
+# != (Diferente de)
+# == (Igual a)
+print(8 == 5)
